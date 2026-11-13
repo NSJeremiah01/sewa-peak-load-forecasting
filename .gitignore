@@ -22,3 +22,7 @@ models/*.joblib
 # OS files
 .DS_Store
 Thumbs.db
+
+# Files required for Streamlit deployment
+!data/processed/sewa_daily_modelling_dataset.csv
+!models/sewa_linear_regression.joblib
