@@ -8,6 +8,14 @@ I used Python and machine learning techniques to clean the data, study electrici
 
 The main goal is to show how machine learning can help electricity providers understand demand patterns and improve their planning.
 
+ **Explore the project:**
+
+🔗 Live Application: https://sewa-peak-load-forecastinggit-4p4gsdmnmlvdjwuikabkgl.streamlit.app
+
+💻 GitHub Repository: https://github.com/NSJeremiah01/sewa-peak-load-forecasting
+
+The GitHub repository contains the project documentation, methodology, model evaluation results and potential business impact.
+
 ## Application Preview
 
 ## Dashboard
